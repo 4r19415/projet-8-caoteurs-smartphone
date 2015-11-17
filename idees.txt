@@ -2,11 +2,15 @@ slider
 bouton sur l'écran
 accéléromètre 2d pour le déplassement
 
-installerune apk sur le terminal pour executer du python
-<<<<<<< HEAD
-https://play.google.com/store/apps/details?id=com.hipipal.qpyplus&hl=fr
+installerune apk sur le terminal pour executer du python 
+
+	     python2
+	     https://play.google.com/store/apps/details?id=com.hipipal.qpyplus&hl=fr
+
+	     python3
+	     https://play.google.com/store/apps/details?id=com.hipipal.qpy3&hl=fr
+
 
 pybluez
 module pour gerer le bluetooth en python
-=======
->>>>>>> 7778bd8a2c6ea9be0974ac42944eccf79d7a0d8e
+
