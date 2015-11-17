@@ -1,3 +1,5 @@
 slider
 bouton sur l'écran
 accéléromètre 2d pour le déplassement
+
+installerune apk sur le terminal pour executer du python
