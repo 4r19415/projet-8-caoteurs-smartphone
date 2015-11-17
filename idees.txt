@@ -11,6 +11,9 @@ installerune apk sur le terminal pour executer du python
 	     https://play.google.com/store/apps/details?id=com.hipipal.qpy3&hl=fr
 
 
-pybluez
 module pour gerer le bluetooth en python
+pybluez
 
+
+librairie de traitement de donnée
+http://pandas.pydata.org/
