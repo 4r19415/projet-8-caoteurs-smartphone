@@ -1,0 +1,5 @@
+Malentir
+
+Lien vers un site d'information sur scikit learn
+
+http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html
