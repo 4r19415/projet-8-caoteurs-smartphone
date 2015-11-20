@@ -1,9 +1,0 @@
-projet sourie avec accéléromètres en python
-
-https://github.com/varun13169/Engineers_Garage/tree/master/Controlling%20Mouse%20Pointer%20using%20Python%20Script%20and%20Accelerometer
-
-
-
-projet client / server python
-
-http://blog.kevindoran.co/bluetooth-programming-with-python-3/
