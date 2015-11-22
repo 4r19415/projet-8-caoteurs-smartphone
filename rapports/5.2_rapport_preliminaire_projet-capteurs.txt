@@ -1,0 +1,41 @@
+# Description du projet :
+
+Nous allons chercher à utiliser notre smartphone comme un "stylo".
+Notre projet consiste en l'analyse de données de type log.
+Nous classifierons des lettres de l'alphabet plus ou moins ambigues.
+L'utilisateur pourra dans un espace 2D ( sur une table)  écrire une lettre qui sera reconnu puis écrite sur l'ordianteur
+
+
+# Description du jeu de données :
+
+Le jeu de données consiste en 1 ou plusieurs fichiers au format log qui capture les mouvements dans un espace 2D qui formeront une lettre précise de l'alphabet.
+
+
+# Identification des étapes et outils clés :
+
+Afin d'atteindre notre objectif, nous avons besoin 
++ de transformer / convertir / nettoyer les données 
++ comprendre la méthode d'analyse suivante : SVD / régression multiple / classifieur / machine learning
++ utiliser les méthodes particulières de traitement suivantes : filtrage, "comparaison"
++ utiliser les bibliothèques python suivantes : scikit-learn, pandas, etc
+
+Le travail est distribué comme suit entre nous :
++ Chaque personne du groupe va devoir faire vingts enregistrements de chaque lettres (A,B,Q,E)
++ Nicolas & Safiétou vont se renseigner sur le classifieur/machine learning
++ Justin-Clément va faire un programme qui va lire les acquisitions 
+
+
+# Références et bibliographie :
+
+Nous avons identifié les exemples / tutoriels / références suivantes dans le cadre de notre travail de recherche préliminaire :
++ https://play.google.com/store/apps/details?id=com.hfalan.activitylog
+Cette application va nous permettre de classifier nos lettres de l'alphabet choisies (A,B,Q,E)
+
+
++ http://pandas.pydata.org/
+Ce lien décrit un traitement particulier sur les données afin d'améliorer / filtrer le bruit
+
++ http://scikit-learn.org/stable/
+  http://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+  http://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+L'utilisation de tel outil et explique une fonction qui nous permettra de reconnaitre les lettres de l'alphabet qui ont été écrite par l'utilisateur avec le smartphone
