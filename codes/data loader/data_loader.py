@@ -9,9 +9,13 @@ import matplotlib.pyplot as plt
 
 def load_data(data_file):
     
-    donnees=np.loadtxt(data_file)
-        
-    return(donnees[:,1],donnees[:,2]) 
+    file=open(data_file,"r")
+    start=file.readline()
+    data=file.read()
+    print"start openning data : ",start,"\n",data
+    file.close()
+    dat_value=0
+    return(data) 
 
 
 def scatter(x,y):
