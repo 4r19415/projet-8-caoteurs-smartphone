@@ -1,0 +1,22 @@
+*~
+\#*\#
+*.o
+desktop.ini
+build-*
+._*
+*.mp4
+*.pyc
+.DS_Store
+zips
+*.save
+Thumbs.db
+arduino-1.5.8-linux64.tgz
+Xilinx_Vivado_SDK*.bin
+flymake-date-file.log
+*_OFF
+*vids
+*pics
+*Makefile
+*Vidéo STAGE
+*Makefile
+
